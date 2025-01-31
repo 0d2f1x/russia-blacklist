@@ -1,7 +1,8 @@
 import requests
 
 # URL с доменами
-url = 'https://p.thenewone.lol/domains-export.txt'
+#url = 'https://p.thenewone.lol/domains-export.txt'
+url = 'https://raw.githubusercontent.com/GhostRooter0953/discord-voice-ips/refs/heads/master/voice_domains/discord-voice-domains-list'
 
 # Имя выходного файла
 output_file = 'formatted_domains.lst'
